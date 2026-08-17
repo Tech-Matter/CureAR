@@ -84,10 +84,10 @@ The right setup depends on the organization's specialty, systems, payer mix, and
 
 More information about CureAR is available in the `docs` directory:
 
-* [Features](docs/features.md)
-* [How It Works](docs/how-it-works.md)
-* [Integrations](docs/integrations.md)
-* [Use Cases](docs/use-cases.md)
+* [Features](features.md)
+* [How It Works](how-it-works.md)
+* [Integrations](integrations.md)
+* [Use Cases](use-cases.md)
 
 ## Security and Privacy
 
